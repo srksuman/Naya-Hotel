@@ -1,0 +1,100 @@
+{
+  "Booking": [
+    {
+      "Fname": "suman ",
+      "Lname": "khanal",
+      "email": "sumanrajkhanal@gmail.com",
+      "option": "Hyatt Regency Kathmandu",
+      "number": "9803955983",
+      "checkin": "2020-02-13",
+      "checkout": "2020-02-14",
+      "adult": "1",
+      "children": "0",
+      "id": 1
+    },
+    {
+      "Fname": "suman ",
+      "Lname": "khanal",
+      "email": "sumanrajkhanal@gmail.com",
+      "option": "Hyatt Regency Kathmandu",
+      "number": "9803955983",
+      "checkin": "2020-02-13",
+      "checkout": "2020-02-14",
+      "adult": "1",
+      "children": "0",
+      "id": 2
+    },
+    {
+      "Fname": "Dipen",
+      "Lname": "Sapkota",
+      "email": "dipensapkota@gmail.com",
+      "option": "Shanker",
+      "number": "9861515315",
+      "checkin": "2020-02-14",
+      "checkout": "2020-02-13",
+      "adult": "4",
+      "children": "2",
+      "id": 3
+    },
+    {
+      "Fname": "suman",
+      "Lname": "khanal",
+      "email": "sumanrajkhanal@gmail.com",
+      "option": "Green Park Chitwan",
+      "number": "5465646465",
+      "checkin": "2020-02-15",
+      "checkout": "2020-02-21",
+      "adult": "3",
+      "children": "2",
+      "id": 4
+    },
+    {
+      "Fname": "Saurav",
+      "Lname": "Mainali",
+      "email": "saurav123@gmail.com",
+      "option": "Mulberry",
+      "number": "9803955983",
+      "checkin": "2020-02-08",
+      "checkout": "2020-02-15",
+      "adult": "2",
+      "children": "0",
+      "id": 5
+    },
+    {
+      "Fname": "Indrajit",
+      "Lname": "Shah",
+      "email": "Indra@gmail.com",
+      "option": "Tiger Palace Resort",
+      "number": "5465646465",
+      "checkin": "2020-02-12",
+      "checkout": "2020-02-12",
+      "adult": "4",
+      "children": "9",
+      "id": 6
+    },
+    {
+      "Fname": "Roshan",
+      "Lname": "Parajuli",
+      "email": "roshan123@gmail.com",
+      "option": "Hotel Fish Tail Lodge",
+      "number": "9803955983",
+      "checkin": "2020-02-15",
+      "checkout": "2020-02-20",
+      "adult": "4",
+      "children": "0",
+      "id": 7
+    },
+    {
+      "Fname": "wert",
+      "Lname": "sdfdghjhk",
+      "email": "suman_2012@fastmail.net",
+      "option": "Hyatt Regency Kathmandu",
+      "number": "2345678",
+      "checkin": "2020-02-28",
+      "checkout": "2020-02-29",
+      "adult": "12",
+      "children": "3",
+      "id": 8
+    }
+  ]
+}
