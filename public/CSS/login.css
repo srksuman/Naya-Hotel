@@ -1,0 +1,26 @@
+#logged{
+  border:2px solid yellow;
+}
+#btn1,#btn2{
+  font-size:30px;
+  border-radius:10px;
+  border:1px solid blue;
+}
+  #loginlogin{
+
+   border:5px solid black;
+   margin-left:4px;
+   margin-top:100px;
+   margin-bottom:4px;
+ border-radius: 20px;
+
+   }   
+   #logged{
+  background-color:grey;
+  border-radius:30px;
+margin-top:7px;
+  margin-left:12px;
+
+
+margin-right:12px;
+}

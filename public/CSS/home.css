@@ -1,0 +1,91 @@
+.contentheader{
+/*	width: 1180px;*/
+	position: relative;
+	
+
+top:55%;
+left:50%;
+transform: translate(-50%,-50%);*/
+}
+#all{
+	background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(../images/citylarge.gif);
+	background-attachment: 	fixed;	
+	background-size: cover;
+	height: 100vh;
+	margin-top: -27px;
+}
+.contentheader{
+	
+}
+h1{
+	color: white;
+	font-size: 240%;
+	word-spacing: 5px;
+	letter-spacing: 3px;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	font-weight: lighter;
+	font-family: 'Flamenco', cursive;
+}
+.btn{
+	display: inline-block;
+	padding: 10px 30px;
+font-weight: lighter;
+text-decoration: none;
+text-transform: uppercase;
+border-radius: 200px;
+transition:background-color 0.2s, border 0.2s, color 0.2s;
+}
+.btnfull{
+	background-color: transparent;
+	color:#0FE0EA ;
+	margin-right: 15px;
+	border: 1px solid #bf55ec;
+}
+.btnfull:hover{
+	background-color:purple;
+}
+
+.colorchange{
+	animation: colorchangesuman 1s infinite; 
+}
+@keyframes colorchangesuman {
+	0%{color:red;}
+	25%{color: #bf55ec;}
+	50%{color: white;}
+	75%{color: blue;}
+	100%{color: green;}
+}
+@media only screen and (max-width: 1180px){
+	.contentheader{
+		width: 100%;
+		padding: 0 2%;
+
+	}
+	#all{
+	
+	margin-top: -27px;
+}
+}
+@media only screen and (max-width: 998px){
+	h1{font-size: 200%;}
+	#all{
+	
+	margin-top: -22px;
+}
+}
+@media only screen and (max-width: 768px){
+	h1{font-size: 180%;}
+		#all{
+	
+	margin-top: -19px;
+}
+}
+	@media only screen and (max-width: 480px){
+		.btnfull{
+			margin-bottom:20px;
+	}
+	#all{
+	
+	margin-top: -19px;
+}}

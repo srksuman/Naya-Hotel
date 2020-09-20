@@ -1,0 +1,59 @@
+#black{
+  background-color: black;
+}
+.pic {
+	  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  padding: 0px;
+  transition-duration: 1s;
+
+}
+.pic {
+    position: relative;
+ display: inline-block;
+    overflow: hidden;
+    margin: 10px 1%;
+    min-width: 240px;
+    max-width: 500px;
+    width: 300px;
+    height: 200px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+    border-radius: 10%;
+    margin-top: 60px;
+}
+
+.pic img {
+    max-width: 100%;
+    vertical-align: top;
+    -webkit-transition: all 2s ease-out;
+    transition: all 2s ease-out;
+    -webkit-transform: scale(1.4);
+    transform: scale(1.4);
+
+}
+
+.pic:hover img,
+.pic.hover img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+
+
+
+@media only screen and (max-width: 700px) {
+  .pc{
+    width: 47%;
+    margin: 0px 0;
+    height: 100px;
+      display:  grid;
+    grid-template-columns: 1fr;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .images .imgd {
+    width: 100%;
+    height: 100px;
+  }
+}

@@ -1,0 +1,106 @@
+#lightgrey{
+    background-color: black;
+    margin-top: -58px;
+    
+    }
+#hf{
+    font-size: 70px;
+    color: white;
+}
+#fq{
+    font-size: 40px;
+    color: white;
+}
+#fB{
+    border:2px solid green;
+    padding: 15px;
+    color: #1de8cc;
+    text-align: justify;
+}
+#sb{
+   border:2px solid green;
+    padding: 15px;
+    text-align: justify; 
+     color: #1de8cc;
+}
+
+#clear{
+    clear: both;
+}
+#sq{
+   font-size: 40px;
+    color: white;
+}  
+#s1{
+    color: white;
+}
+#s2{
+    color: white;
+}
+#s3{
+    color: white;
+}
+#s4{
+    color: white;
+}
+#bookme{
+    color: white;
+    font-size: 40px;
+}
+
+
+
+.texts{
+
+	color:blue;
+	margin-right: 10px;
+	margin-right: 10px;
+	font-size:30px;
+	border: 2px solid blue;
+
+}
+
+.pics {
+    position: relative;
+    float: left;
+    overflow: hidden;
+    margin: 10px 1%;
+    min-width: 240px;
+    max-width: 500px;
+    width: 100%;
+    border-radius: 50%;
+    margin-top: 60px;
+}
+
+.pics img {
+    max-width: 100%;
+    vertical-align: top;
+    -webkit-transition: all 2s ease-out;
+    transition: all 2s ease-out;
+    -webkit-transform: scale(1.4);
+    transform: scale(1.4);
+
+}
+
+.pics:hover img,
+.pics.hover img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+.info-text{
+  top: 50%;
+}
+.info-text p {
+    margin: 0;
+     color: #1de8cc;
+    border:2px solid green;
+    text-align: justify; 
+    font-size: 26px;
+    line-height: 1.4;
+    font-family: 'Open Sans', sans-serif;
+    padding: 16% 4%;
+    
+}
+.info-text .right {
+  float: right;
+}
